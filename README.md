@@ -2,6 +2,16 @@
 
 一个用于批量管理 Microsoft Outlook 邮箱账户的全栈 Web 应用。支持 OAuth2 双协议（Graph API + IMAP）收取邮件，内置代理管理，提供现代化的 Glassmorphism 风格界面。
 
+## 界面预览
+
+| 仪表盘 | 邮箱管理 |
+|:---:|:---:|
+| ![仪表盘页面](docs/screenshots/仪表盘页面.png) | ![邮箱管理页面](docs/screenshots/邮箱管理页面.png) |
+
+| 邮件查看 | 移动端 |
+|:---:|:---:|
+| ![邮件查看弹窗](docs/screenshots/邮件查看弹窗.png) | ![移动端效果](docs/screenshots/移动端效果.png) |
+
 ## 技术栈
 
 | 层级 | 技术 |
