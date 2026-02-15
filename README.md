@@ -154,6 +154,10 @@ npm start
 
 分隔符可自定义（默认 `----`）。
 
+## 致谢
+
+本项目的 OAuth2 认证流程参考了 [MS_OAuth2API_Next](https://github.com/HChaoHui/MS_OAuth2API_Next)，感谢原作者 [@HChaoHui](https://github.com/HChaoHui) 的开源贡献。
+
 ## License
 
 MIT
